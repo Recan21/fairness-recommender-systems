@@ -1,5 +1,3 @@
-# fairness-recommender-systems
-
 # Fairness in Recommender Systems
 Bachelor Thesis: University of Zurich, 2026  
 Author: Mohamed Nacer Chabbi  
